@@ -5,6 +5,3 @@
 **Today's Progress**: Figuring out how to work this challange.
 
 **Thoughts:** pretty excited to start this challange!
-
-### Day 1: Augest 13, 2018
-Test
